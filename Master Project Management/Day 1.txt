@@ -1,0 +1,285 @@
+📌 What is a Project?
+
+A project is temporary in nature
+
+Has a definite beginning and end
+
+A project creates something unique (product, service, or result)
+
+📌 Why do we initiate projects?
+
+Projects are initiated to create business value, due to:
+
+Market demand
+
+Customer request
+
+Business need
+
+Environmental considerations
+
+Legal requirements
+
+Social need
+
+Technological advancement
+
+📌 What is a Program?
+
+A program is a group of related projects
+
+These projects are managed together to gain benefits not available if managed individually
+
+📌 What is a Portfolio?
+
+A portfolio consists of:
+
+Projects
+
+Programs
+
+Portfolios
+
+Sometimes operations
+
+Items in a portfolio:
+
+May or may not be related
+
+Share the same strategic goals
+
+📌 What is Project Management?
+
+Projects have specific requirements to meet
+
+Project management focuses on managing:
+
+Scope
+
+Budget
+
+Time
+
+Quality
+
+Other requirements
+
+Efficient execution of work
+
+Efficient project management requires:
+
+Tools and techniques
+
+Knowledge
+
+Skills
+to successfully manage a project
+
+📌 Process Groups and Knowledge Areas (PMBOK)
+🔹 Process Groups (5)
+
+Initiating
+
+Planning
+
+Executing
+
+Monitoring and Controlling
+
+Closing
+
+🔹 Knowledge Areas (10)
+
+Integration Management
+
+Scope Management
+
+Schedule Management
+
+Cost Management
+
+Quality Management
+
+Resource Management
+
+Communication Management
+
+Risk Management
+
+Procurement Management
+
+Stakeholder Management
+
+📌 Program Management
+
+Focuses on coordinating and managing:
+
+Related projects
+
+Other associated management work
+
+Why do we need Program Management?
+
+Related projects may:
+
+Share stakeholders
+
+Share resources
+
+This can lead to conflicts
+
+Program management helps:
+
+Reduce risks
+
+Improve coordination
+
+Achieve economies of scale
+
+Is Program Management mandatory?
+
+❌ No
+
+✅ It is needed only if it adds value
+
+📌 Portfolio Management
+
+Portfolio management is required only if it adds value
+
+Focuses on aligning work with strategic goals
+
+📌 Organizational Project Management (OPM)
+
+Defines a strategic framework to achieve organizational goals
+
+Includes management of:
+
+Projects
+
+Programs
+
+Operations
+
+Other organizational work
+
+📌 Operations vs Projects
+
+Operations
+
+Ongoing and repetitive
+
+Projects
+
+Temporary
+
+Operations and projects:
+
+Can be connected
+
+May trigger or support each other
+
+📌 Project Management Office (PMO)
+
+Provides and maintains:
+
+Standards
+
+Procedures
+
+Project documentation
+
+Classification of PMO (based on authority)
+
+Supportive
+
+Provides templates, standards, procedures
+
+Low authority
+
+Supports the project
+
+Controlling
+
+Provides support
+
+Enforces compliance with standards
+
+Medium authority
+
+Directive
+
+Directly manages projects
+
+Responsible for project success
+
+Highest authority
+
+Authority level (Low → High)
+
+Supportive → Controlling → Directive
+
+📌 Exam Tip:
+Unless stated otherwise, always assume the organization has a PMO.
+
+📌 Organizational Governance vs Project Governance
+Organizational Governance
+
+Focuses on achieving strategic organizational goals
+
+Includes:
+
+Policies
+
+Procedures
+
+Standards
+
+Provides a roadmap for the organization
+
+Ensures all work follows defined rules and structure
+
+Project Governance
+
+Provides project teams with:
+
+Policies
+
+Processes
+
+Decision-making models
+
+Tools
+
+PMO may provide and execute project governance
+
+📌 Organizational Structures
+
+Types of organizational structures:
+
+Organic / Simple
+
+Functional
+
+Multi-divisional
+
+Matrix (Weak, Balanced, Strong)
+
+Project-oriented
+
+Virtual
+
+Hybrid
+
+PMO-based
+
+Most important for exams:
+
+Functional
+
+Matrix
+
+Project-oriented
+
+📌 Note:
+
+Functional structure is the most common
