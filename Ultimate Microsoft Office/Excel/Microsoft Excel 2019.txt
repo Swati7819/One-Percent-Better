@@ -1,0 +1,112 @@
+Microsoft Excel 2019 Day 1 Module 1 and Module 2
+
+
+1. New changes:
+
+ 1.1. Select:
+  If we want to select multiple things then by pressing ctrl, we can do that. And then if we want to de-select some of them, then also we can do that by still pressing on to the ctrl button and clicking on the cells which we don't want. This is a new change as earlier when we want to de-select then we have to press away from the selected cells and then all of the selected cell will be de-selected and then again we have to select all of them.
+
+1.2. Accessibility Checker: [For disabled people]
+
+Review -->Check Accessibility--> This will appear on the right side. We can fix the issues either by going there or directly from the accessibility checker tab.
+
+1.3. Translate:
+Take the selected text and translate it into a different language.
+
+Select cell intended --> Review--> Translate
+
+
+1.4. Concat: Merge two cells of info in same cells
+
+=concat(B5," ",C5) Sara King
+=concat(B5,C5) SaraKing
+
+
+
+=concat(Select all of the in same col) ==> It will concatenate all of them.
+
+
+Concat is replacement of concatenate.
+
+NOTE: A yellow yield sign in excel means that feature is going away soon.
+ 
+
+
+
+
+
+Overview of Excel Window:
+Quick access tool bar: 
+
+Undo
+There is one dropdown which will give a list of all the things that we have done. If we want to undo, we can do it at any point of time.
+
+Redo
+
+Save
+
+Quick Print
+
+Arrow ==> Which let us customize our tool bar as we can add or remove the option.
+
+After quick access tool bar, comes a title bar.
+
+Excel file are called workbook with work sheets inside them.
+
+Then we have minimize , maximize or close.
+
+Below quick access tool bar, we have tabs. Each tabs have their own ribbons with group of buttons. This is called clips or grouping. Each grouping has a name.
+
+To see what is more in grouping sections, we have the expand option in the corner to see what it has more to offer.
+
+Cells are the workarea.
+
+Cell name ==> Col name+Row number [D5]
+
+Cells can hold three things ==>Text, number or formulas.
+
+
+Mouse Section:
+
+White cross: Used to select the range of cells. [adjacent cells]
+
+
+Black cross: this is called fill handle.
+
+They will continue the pre defined list in excel, it will continue. Now if we don't have pre defined list, then it will copy whatever is in that excel. Predefined list are days of the week and months of the year, etc.
+
+White arrow with cross behind it: Used to drag and move the info to new cell.
+
+
+Back Stage View: 
+
+When we click on file --> Back Stage View
+
+Enter put you down, tab put you right.
+
+Formulas can be on the same sheet as the data or on a separate sheet or file. [we will see later]
+
+All formula begins with equal (=) sign
+
+B2+B3+B4 AND B2+B3+B4+ ARE DIFFERENT THINGS
+
+
+
+Relative references and absolute reference, we will see later.
+
+
+Order of operations:
+
+()
+^
+*/
++-
+
+In case of multiple set of () ==> Precedence will be Left to right 
+
+(()) ==> if something like this, then inside first then outside. 
+
+
+Range: Adjacent to each others. Shift+enter/tab
+
+B2:C4
