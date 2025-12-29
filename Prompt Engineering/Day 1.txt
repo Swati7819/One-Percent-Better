@@ -1,0 +1,36 @@
+5 Principles of Prompting
+1. Giving Direction
+
+Describe the desired style in detail, or reference a relevant persona.
+
+Naive prompt:
+
+Give 10 product names for shoes that fit any shoe size.
+
+Prompt engineering:
+Prompt engineering is used to yield useful and desired results.
+
+Refined prompt example:
+
+Brainstorm a list of product names for a shoe that fits any shoe style, in the style of Steve Jobs.
+
+Image models: Stable Diffusion
+
+2. Specify Format
+
+Define what rules to follow and the required structure of the response.
+
+3. Provide Examples
+
+Insert a diverse set of test cases where the task was done correctly.
+(Very costly)
+
+4. Evaluate Quality
+
+Identify errors, rate responses, and test what drives performance.
+
+5. Divide Labor
+
+Split tasks into multiple steps, chained together, for complex goals.
+
+Note: Explore all the above in more detail.
