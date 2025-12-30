@@ -1,0 +1,19 @@
+2 Type of module.
+
+1. Build in module (Already there)
+2. External module (which needs to be import from pip)
+
+
+Pip is a package manager 
+
+eg. pip install panda
+
+import panda
+
+repl ==> read evaluate print loop
+
+replit already install the library if not there. so dont confuse it 
+
+Search for build in module in python
+
+Use the latest version of python always 
