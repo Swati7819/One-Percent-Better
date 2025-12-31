@@ -1,0 +1,11 @@
+print("Hello world")
+print(19)
+print("hi",9)
+print(17*14)
+
+print() is inbuilt function
+
+we need to give valid objects inside print() function
+
+Script execute line by line
+
