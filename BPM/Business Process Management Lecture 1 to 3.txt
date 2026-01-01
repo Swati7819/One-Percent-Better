@@ -1,0 +1,46 @@
+Business Process Management Lecture 1 to 3
+
+Lecture 1
+
+General Introduction
+
+Lecture 2
+
+Classroom Activity: Seeing a picture and finding out how many process we can see.
+
+Identifying a process is important as when we find out how many process are involved, we can know how effectively we can do process management and save time and save cost within an organization.
+
+Lecture 3: What is Business Process Management?
+
+Acc to Wikipedia, It is a management science that focuses on improving corporate performance by managing and optimizing a company's business processes.
+ 
+BPM was a buzz word within industry which has led to a lot of confusion. However in 2014, It become a clearly defined methodology.
+
+what it is?
+
+A method for managing processes.
+A means to identify which processes are executed within an org.
+A business led methodology or project.
+The foundation of facilitating a continuous improvement culture within a team or organization.
+
+What it is not?
+
+A pure process improvement methodology (but it provides the means for process management).
+ 
+An IT led solution.
+  
+A tactical tool(BPM is a strategic led,  operationally deployed).
+
+There are the most common mistakes companies and people make when it cokes to BPM:
+
+Mistake 1: Jumping straight into modelling the process before doing anything else.
+
+Mistake 2: Not understanding the functionality of BPMN(Business Process Management and Notation) and where it fits in within the broader BPM discipline.
+
+Mistake 3: Not able to explain BPM to stakeholders or people without a BPM background, or not educating them in the first place.
+
+Mistake 4: Not getting executive endorsement before embarking on a BPM project. 
+
+Mistake 5: No use of layering or application of a process architecture.
+
+Mistake 6: Confusing BPM with business process improvement methodologies such as Lean or Six Sigma.
