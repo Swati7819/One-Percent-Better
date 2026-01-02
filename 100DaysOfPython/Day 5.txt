@@ -1,0 +1,28 @@
+# Author: Swati Sharma
+# Course : 100DaysOfCode
+#shortcut : ctrl +/ to comment/uncomment multiple/single lines
+'''This triple quote is also a multiline comment'''
+"""This is also a multiline comment"""
+
+# New line character : \n
+#double quote escape sequence character: /""
+
+print("Day 5 ")
+#comments, escape sequence and print statement
+
+print("Hey I am a good girl :)")
+
+print("Hey I am a good girl \n and This viewer is also a good boy/girl")
+
+print("Hey I am a \"good girl\" \n and This viewer is also a good boy/girl")
+
+print('Hey I am a \'good girl\' \n and This viewer is also a good boy/girl')
+
+print("Hey I am a \'good girl\' \n and This viewer is also a good boy/girl")
+
+print('Hey I am a \"good girl\" \n and This viewer is also a good boy/girl')
+
+print("hey", 7, 9, sep="$", end ="009\n")
+#by default, end="\n"
+#sep = separator, default = space, end = what to print at the end, by default = new line
+print("Swati")
