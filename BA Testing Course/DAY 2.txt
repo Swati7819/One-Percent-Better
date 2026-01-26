@@ -1,0 +1,148 @@
+1. Test cases
+
+Set of steps which are performed to verify the expected output.
+Gives detailed info. about any precondition, what to test, how to test, and the expected result.
+Written so they can be executed by anyone.
+Takes a significant amount of time to create test cases for all requirements.
+May trace back to the specific requirement.
+
+2. 4 steps to creating a test cases
+
+1. Understand the requirement you are testing.
+2. Write step by step instructions on how to verify it works.
+3. Add in expected outcomes to each step.
+4. Define pre-requisites/ pre conditions.
+
+3. Determine requirement to test
+Using req. document, identify the req. you are testing.
+Think through how you would test to verify it works.
+
+4. Step by Step 
+
+Eg. Can reset your password:
+
+1. Launch an internet browser (chrome or IE are supported)
+2. Browse to www.xyx.com
+3. In the top right corner  click "login"
+4.  On the login screen, below the password entry, click "Forgot my password"
+5. Type in your email address into the field and click submit.
+6. In the email, you receive(within 5 minutes), click the link
+7. Enter your new password in both fields and click done
+8. Click "login" and utilize your email and newly created password.
+
+
+Expected Outcome
+
+Add in what you expect to have happen
+
+1. Launch an internet browser --> Browser opens, allowing entry of a url address.
+
+2. Browse to www.xyx.com --> Company xyx home page loads
+
+3. In the top right corner click "login" --> Login page loads with email and password fields.
+
+
+Determine pre condition
+
+1. What knowledge does the tester need to have?
+2. What access does the tester need to have?
+3. Did steps need to be done prior to this?
+
+
+
+Entry for Test book:
+
+1. Requirement ID
+2. Test case ID
+3. Title --> Business requirement from FRD
+4. Step
+5. Action/Description
+6. Expected Result
+7. Pass/Fail
+8.Notes/Remarks
+
+
+2. Test scenarios
+
+A single general statement that gives a high level test procedure.
+Could include multiple test cases
+Allows the testers to interpret the action needed
+Help adjust for unexpected user test paths and input
+
+
+Eg. of test scenarios
+
+1. Verify clicking forgot my password generates an email that you can use to reset your password.
+
+2. Verify that once you convert a lead, the system automatically creates an account and pulls over the relevant details from the lead.
+
+3. Verify you can place an order containing once or more products.
+
+Test scenarios workbook
+
+1. Test case id
+2. Test scenario Id
+3. Title
+4. Scenario
+5. Pass/Fail
+6. Notes/Remarks
+
+
+3. Concept of traceability
+
+Tracks requirement through testing and go live
+Ensures all req. have been thoroughly tested
+Can be enforced strictly or loosely.
+Extremely time consuming if strict adherence is required. (Not much needed for BA unless strictly mentioned)
+
+4. Defect Management
+
+Defect management is the act of:
+1. documenting the issue or bug
+2. Assigning the defect to a resource to fix
+3. tracking the progress of the charge
+4. Validating the change corrected the issue or bug
+
+5. Defect Management : Excel
+
+Utilize modified test workbook or create new tracking spreadsheet
+
+Advantages:
+accessible in nearly every business
+Familiar to most users
+easy to create
+
+Disadvantages
+Only one person can edit at a time.
+No audit or notification on changes
+tedious to constantly open and update
+no reporting
+
+6. Defect Management: SharePoint
+
+Create a SharePoint List
+
+Advantages:
+Accessible to many business
+Easy to replicate the template
+Can have notifications generated
+Many people can edit at a time
+
+Disadvantages
+No reporting
+No traceability to requirements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
