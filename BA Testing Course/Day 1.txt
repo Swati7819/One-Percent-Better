@@ -1,0 +1,157 @@
+1. What is Software Testing?
+
+Set of activities intended to find bugs within software, as well as validate and verify the software meets the business requirements and needs as designed.
+
+Bug/Defect: an error that causes an incorrect or unintended result.
+
+
+2. Verification vs Validation
+
+Verification - You verify the software is built as the design specification outlined. Ultimately, you are verifying the developers completed the development as it was envisioned. "Are you building it right?" [Functional Requirement]
+
+Validation - You validate the software that was build solves the original business problem or fulfills the business needs.
+"Are you building the right thing?" [Business Requirement - UAT]
+
+3. Why it is important?
+
+Defects in prd systems can:
+Cost money
+Frustrates users
+Extend the project
+And in some cases, can cause loss of lives!
+
+
+Example of bug causing loss:
+1. Mars Climate Orbiter
+Launched in 1998 to study Mars Climate changes
+Developer used English units instead of metric
+Bug caused it to get too close to Mars atmosphere.
+Orbits disintegrated.
+
+Net loss: $327 million dollars
+
+
+2. AT&T long distance
+In 1990, 60k customers couldn't make long distance calls.
+Phones use switches and LT&T has lots to allow for all the traffic.
+When one switch is full, it passes the traffic to the next switch
+Software update was put into production to make the failures faster
+Bug had switches get overloaded, reset, and pass the traffic to the next
+AT&T long distance was down for nine hours
+
+Net loss: $60 million dollars
+ 
+3. Prisoners released early
+
+Software calculates the sentence based on good/bad behaviour
+Bug in calculations was introduced in 2002 and not caught until 2015
+More than 3k prisoners had been released early
+
+Net loss: Unknown.
+ 
+
+Validation --> 2015 Miss universe controversy
+
+4. Goals of testing
+
+Reduce as many as we can as no system can be 100% bug free.
+
+1. Verify the software is  built as designed
+a. Show presence of defects
+b. Reduce probability of bugs remaining in software at time of launch.
+c. Not to make it bug free (Not feasible without large investment.
+
+2. Validate the software is usable and meets business needs
+a. Confirm intended users can accurately use the software.
+b. Ensure the end result solves the original business problem.
+
+5. When does testing happen?
+
+1. Waterfall --> One phase at a time and no going back
+
+Requirements --> Design--> Development --> Testing-->Deployment-->Maintenance.
+
+2. Iterative --> Repeating waterfall many times.
+Analysis--> Design -->Implement-->Iterate and then Deploy
+
+6. Software testing Phases:
+
+1. There are different kind such as:
+a. Unit Testing
+b. Integration Testing
+c. System Testing
+d. User acceptance testing
+e. Regression testing
+
+
+V model help us visualize this:
+Business requirement                                                User Acceptance Testing
+         Functional requirement                              System testing
+                    Technical requirement        Integration Testing
+                              Development + Unit testing
+
+
+a. Unit testing:
+First step by testing
+Completed by developers
+test as each component is completed 
+Business analyst --> Rarely engaged. If engaged, it is to write test cases and review test results.
+
+b. Integration System:
+Pull component together and test as larger unit
+Find problems in how components work together
+Common place for project failure
+Business analyst role --> usually engaged if no QA team. Write test case and review test results 
+
+c. System Testing:
+Last chance for the project team to verify the software
+Validate software meets business requirements 
+Includes many different type of tests
+
+BA role--> Always engaged. Write, execute, and analyze test case results.
+
+
+d. User Acceptance Testing:
+Final phase of testing
+User utilize real life scenarios to verify software meets their needs.
+Users should be the main tester, not the BA.
+
+BA role--> Almost always engaged.  Create scenarios, analyze results, managed defects, and ensure defect resolution.
+
+
+e. Regression Testing:
+Performed after initial testing is completed.
+Retest function of the software that have not been changed.
+Ensure changes didn't break previously working functionality.
+Can be extremely tedious and boring.
+
+
+7. Quality Plan
+
+Quality plan addresses the quality requirements, standards, and quality assurance mechanisms for a project.
+
+Project manager creates it.
+
+The quality plan includes:
+1. Testing and Quality Assurance (who, what, how)
+2. Defect management (where to document, details to include , test the change)
+3. Training (who needs it in order to test)
+
+8. Test Workbook
+
+Created by BA or Quality team
+Document that holds the test scenarios, test cases, and testing results.
+Used by anyone involved in testing:
+BA
+User/Business
+Quality Assurance (QA) team
+Guides the testing of the software to ensure coverage across as many requirements as feasible.
+
+
+
+
+
+
+
+
+
