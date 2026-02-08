@@ -1,0 +1,19 @@
+Introduction To SQL:
+ 
+1. To run SQL, we need two things:
+a. SQL server which is the actual server which will be local to your laptop--> It is backend
+b. SSMS--> SQL Server Management Studio--> Allows you to write query
+
+
+2. What is SQL?
+One of the most sought out skills in the job market.
+Database Management Tool
+Querying language
+Multiple tables can be imported, stored, and manipulated in SQL databases.
+Table schema used(connecting and linking tables)
+
+3. Why is SQL so important?
+Used in large/blue chip companies for managing databases.
+The demand for SQL has increased exponentially over time
+There are many different versions of SQL(T-SQL, MySQL, PostGres SQL, etc)
+Used very commonly across different functions in a company.
