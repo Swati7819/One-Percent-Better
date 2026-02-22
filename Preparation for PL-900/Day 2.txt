@@ -1,0 +1,87 @@
+Dynamics 365
+
+What is it?
+Off the shelf intelligent business applications from Microsoft's, that connects data, processes and teams together.
+
+Different applications (12 total)
+
+1.Dynamics 365 Sales - sales leaders, sales operations
+2.Dynamics 365 Customer Service - Customer Service Leaders, Customer Service Operations [telecommunications]
+3.Dynamics 365 Field Service - Field Service Leaders, Field Service Operations
+4. Dynamics 365 Human Resource - Attract, Onboard, Core HR
+5. Dynamics 365 Finance & Operations - Finance and Ops Leader
+6. Dynamics 365 Supply Chain Management - Streamline Planning, production, stock, warehouse and transportation [Grocery]
+7. Dynamics 365 Commerce
+8. Dynamics 365 Project Service Automation - Operation Leaders, Project Leaders
+9. Dynamics 365 Marketing - Adobe Marketing Cloud, Marketing
+10. Dynamics 365 Artificial Intelligence - AI for sales, AI for customers Service, AI for market insights
+11. Dynamics 365 Mixed Reality - Remote assist, layout, guides
+12. Dynamics 365 Business Central - ERP for SMB
+
+
+For eg. Microsoft 365 has a CRM software that allows companies to track their sales, track their leads , tracks how much money the customers can bring in, track customer activities, etc.
+
+How Dynamics 365 is different from power platforms is that power platform allows you to create applications where as Dynamics 365 are a set of applications that are already built to solve a business leads. Dynamics 365 was launched as part of Microsoft business package.
+
+How Dynamics 365 works well with power platform? ==> this happens in 3 ways
+
+D365 + Power Platform
+
+1. Dataverse
+The data within most Dynamics 365 apps is actually stored in dataverse which is a database that exist within power platform env.
+Dataverse works well and integrates very well with power platform
+Use Power apps to create apps from data within D365
+Use Power automate to create flows based on updated data in D365
+Use power bi to analyze data in D365
+
+2. Relevant connectors
+Power Platform also has connectors that bridge directly to some D365 apps(Business Central, Customer Insights, Finance and Operations, SCM)
+Use power automate to create flows where the trigger is "when a business event occurs"
+Use power apps to cause D365 actions
+
+3. Data sources
+Within power bi, you can select dynamics business central and customer insights as "data sources", that you can then analyze and create reports/dashboards via power bi and power automate.
+
+
+Video 24 - Dynamics 365 connectors[just watch the video]
+
+Microsoft 365 [aka office 365]
+
+What is it?
+Subscription service to common business and office productivity applications, like excel, outlook, power point, etc
+
+Subscriptions
+OneDrive for business
+Skype for business
+word
+excel
+powerpoint
+onenote
+publisher
+access
+yammer
+sharepoint
+exchange
+forms
+etc
+
+
+How to integrate Microsoft 365 with power platorm? ==> Through connectors 
+
+
+So we can access these applicaions either though data sources or through services(actions and trigger)
+
+Data sources
+use sharepoint list as a database for your power apps application [sharepoint list connector]
+create a flow that emails you when a new records is added to a sharepoint online site [outlook connector]
+Create a power apps that enables users to add, edit, modify and delete records from an access database
+Create a power bi dashboard from data that exist in access and in sharepoint list
+
+Services(actons and triggers)
+trigger a power automate workflow when someone submits a new form in Microsoft forms that emails the record to your manager [triggers is forms +outlook connector]
+when an email with files attachment is received, put attachment into onedrive[trigger is outlook+ onedrive connector]
+create a power app that lists tasks from Microsoft to do and allows you to assign task to other people
+
+
+Note : Power apps are connected with other applications such as dynamic 365, Microsoft 365, teams, etc so that it can be utilized much.
+
