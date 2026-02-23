@@ -1,0 +1,84 @@
+Day 3
+
+Teams and power platform
+
+Power Apps
+1. Embed Power app(canvas or model driven) into teams as a tab or personal app
+
+2. Create apps directly within teams, using Dataverse for teams for datasource.
+
+Power automate
+1. Create workflows that triggers based on Teams messages or adaptive cards
+2. Create workflows that sends teams message or create new chats.
+
+Power BI
+1.Add power bi app directly into teams.
+2. Embed interactive report in teams channels and chats
+
+Power virtual agent
+1. Deploy chatbots on teams, for your employees or team member to use.
+
+
+Microsoft Azure
+
+What is it?
+Cloud computing service, providing software as a service,platform as a service, infrastructure as a service and many other resources.
+
+Similar to dynamic 365 and Microsoft 365, Microsoft azure extends what power platform can do.
+
+
+For eg. Azure has a resource called congnitive services. This enables us to run really cool AI models that can for eg. read a picture and deduce what the text from that picture is or they can for eg. do translation services so they can take a piece of text and translate it into another language, or they can take a drawing and apply computer vision to it to make that drawing into a power app element.
+
+Some of the azure service areas follows:
+
+1. Analysis service [Power BI]
+2. API management
+3. Azure functions - allows you to create third party functions that run by themselves.
+4. AKS [Azure Kubernetes Services]
+5.Login apps
+6. Cognitive Services
+7. Bot services [Power Virtual agents]
+
+
+
+Azure/office data services
+1.Microsoft graph
+2. SQL azure
+3. SQL data warehouse
+4. Cosmos DB
+5. Azure AD
+6. Azure CDN
+7. Azure Data factory
+8. Azure Blob Storage
+
+
+Azure+Power Platform connectors
+
+Data sources
+
+1. Use Power BI to run analytics, create reports, and create dashboards from :
+1. Azure sql database
+2. Azure Cosmos DB
+3. Azure Analystics services DB
+4. Azure Blob Storage
+
+Create apps from
+1. Azure file storage
+2. Azure log analytics
+
+Services (actions and triggers)
+
+1. Employ cognitive services in your power apps, like computer vision, text to speech, language conversion, and more
+
+2. Use azure bot service and power virtual agents to create bots in multiple languages and dialects
+
+3. Use power automate and azure functions to create workflows that call third parties API, like independent software without connectors
+
+4. Connect power automate to azure data factory and mix process workflows with data workflows
+
+
+
+
+
+
+
