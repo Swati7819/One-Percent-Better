@@ -1,0 +1,18 @@
+Video 6
+
+Data type and variables
+
+variable are container inside memory
+eg. a=1
+print(a)
+
+b= "Swati"
+print(b)
+
+""==> Use to represent strings data type. Anything inside "" will print directly
+
+
+data type defines the value the variable can hold
+
+
+type(a)
