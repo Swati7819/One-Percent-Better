@@ -1,0 +1,27 @@
+1. As per Forbes 2020 report, "The constant increase in data processing speeds and bandwidth, the non stop invention of new tools for creating, sharing, and consuming data, and the steady addition of new data creators and consumers around the world, ensure that data growth continues unabated. Data begets more data in a constant virtuous cycle".
+
+2. A modern data ecosystem includes a whole network of internconnected, independent and continuously evolving entities. It includes:
+a. data integrated from disparate sources.
+b. Different types of analysis and skills to generate insights.
+c. Active stakeholders to collaborate and act on insights generated.
+d. Tools, applications and infrastructure to store, process and disseminate data as required.
+
+3. If we start from data source, we have structured and unstructured data in the form of text, images, videos, click streams, user conversation, social media platform, IOT, real time events that streams data, legacy data bases, data source from professional data providers and their agencies.
+
+4. When we are working on these diverse data set, the first step is to pull a copy of the data from the original sources into the data repository. At this stage, we are only acquiring the data we need, working with data formats, sources, and interfaces through which this data can be pulled. Challenges at this stage include -> Reliability, security and integrity of the data.
+
+5. Once the data that we need is in one place, that raw data needs to get organized, cleaned up, optimized for access, and conform to compliances and standards enforced in the organization. Challenges at this stage includes --> Data management, repositories that provide high availability, flexibility, accessibility and security.
+
+6. Finally we have our business stakeholders, Apps, Programmer, analyst, data science use cases that are pulling this data from enterprise data repository. The key challenges at this stage include -->Interfaces, APIS, Applications that can get this data to the users inline to their specific needs. Eg, stakeholders might needs report, analyst might need data, apps might needs API etc.
+
+7. It is important to understand how the emerging technologies shaping the modern data ecosystem such as Cloud Technologies, Machine Learning, Big data etc. such as :
+a. Thanks to Cloud technologies, every enterprise today has access to limitless storage, high performance computing, open source technologies, machine learning technologies, and the latest tools and libraries.
+
+b. Machine learning --> Data scientists are creating predictive models by training machines learning algorithms on past data.
+
+c. Big data is paving the way for new tools and techniques and also new knowledge and insights
+
+
+
+
+
