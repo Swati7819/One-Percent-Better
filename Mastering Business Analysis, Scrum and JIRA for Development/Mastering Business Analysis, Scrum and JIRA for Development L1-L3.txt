@@ -1,0 +1,11 @@
+Lecture 1: Course Curriculum
+
+Lecture 2: Course Overview
+
+Lecture 3: What is Business analysis
+
+1. As per BABOK guide, it is process of enabling change in the organization.
+2. In business analysis, we identify the problem[gaps in form of current state] and propose solution[based on the requirements to fill the gap] to address them. 
+3. Business analysis is a set of activities needed to perform to fix a problem or mitigate the risk.
+4. Business analysis is the practice of reviewing the current practice or product, identify the inefficiencies in it and proposed solution while maintaining highest possible standards and following company guidelines and benchmark.
+5. Basically, through business analysis, we help org achieve its business goals.
