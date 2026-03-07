@@ -1,0 +1,77 @@
+1. Organization are using data to uncover opportunities and applying that knowledge to differentiate themselves from their competition.
+a. Identifying patterns in financial data to detect fraud.
+b. Using recommendation engines to drive conversion.
+c. Mining social media posts for customer services.
+d. Analyzing customer behavior for personalizing offers.
+
+2. To get maximum value of data, we need different data professionals for this. In this, we are going to talk about the following data professionals:
+a. data engineers
+b. data analyst.
+c. data scientists
+d. business analyst
+e. business intelligence (BI) analyst
+
+
+Data Engineers
+
+3. It all starts with Data engineers. These are people who develop and maintain data architecture and make data available for business operations and analysis. Data engineers work within the data ecosystem to:
+a. Extract, integrate, and organize data from disparate sources.
+b. Clean, transform and prepare data.
+c. Design, store, and manage data in data repositories.
+
+4. Data engineers transform data in such a way that various business applications and Data analyst and data scientist can utilize it in a way they want.
+
+5. Skills for data engineers:
+a. Good knowledge of programming.
+b. Sound knowledge of systems and technology architecture.
+c. In-depth understanding of relational databases and non-relational data stores.
+
+Data Analyst
+6. Data analyst translate data and numbers into plain language so org. can make decisions.
+
+7. Responsibility of data analyst:
+a. Inspect and clean data for deriving insights.
+b. Identify correlations, find patterns, and apply statistical methods to analyze and mine data.
+c. Visualize data to interpret and present the findings of data analysis.
+
+8. Analysts are the people who answer questions such as "Are the users" search experiences generally good or bad with the search functionality on our site?
+
+9. Skills for Data analyst:
+a. Good knowledge of spreadsheets, writing queries, and using statistical tools to create charts and dashboards.
+b. Programming skills.
+c. Strong analytical and story telling skills.
+
+Data Scientist
+10. Responsibility of data scientist:
+a. Analyze data for actionable insights.
+b. Create predictive models using machine learning and deep learning.
+c. They answer questions such as "How many new social media followers am I likely to get this month?"
+
+11. Skills for Data Scientist:
+a. Knowledge of Mathematics and Statistics
+b. Understanding of programming languages, databases, and building data models.
+c. Domain knowledge.
+
+Business Analyst and BI Analyst
+12. BA leverage the work of DA and DS to look at possible implications for their business and the actions they need to take or recommend.
+
+13. BI analyst do the same except their focus is on:
+a. Market forces and external influences that shape their business.
+b. Organize and monitor data on different business functions
+c. Explore data to extract insights and actionables that improve business performance.
+
+
+
+Summary
+
+14. Data engineering convert raw data into usable data.
+15. Data analytics use this data to generate insights.
+16. Data scientist use data analytics and data engineering to predict the future using data from the past.
+17. BA and BI analyst use these insights and predictions to drive decisions that benefits and grow their business.
+
+
+
+
+
+
+
