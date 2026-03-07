@@ -1,0 +1,43 @@
+L3 : SQL STATEMENT CATEGORY
+
+1. Data manipulation language --> DML --> select, insert, update, delete, merge--> Help to manipulate the data to generate some result
+2. Data definition language --> DDL--> Help us to define our data structure within a database or data warehouse. --> create, drop, alter
+3. Data control language (DCL)--> used to control accessing parts of database
+--> Grant, revoke
+
+L4: Capture Data Requirements
+
+1. Always seek permissions before accessing any database from data owners.
+2. First we need to identify, what specific fields do we want to record? 
+3. Always have a summary report to understand the data better.
+4. Sample Data and Data Types:
+a. Provide sample of data
+b. Identify source data types
+c. Format of fields eg. date EU Vs US
+d. Length of data types
+e. Capture all or part of datasets
+
+5.Data migration considerations:
+a. Is the data relevant to project?
+b. Cost of data
+c. Size of dataset to be migrated
+d. Total Data Size = quantity x Frequency of data
+e. Increase Database Size
+
+L5: Physical Vs Logical Data Representations
+
+(Physical Representation)
+1. Database : Store raw data from source system.
+2. Tables: used to store raw source system data.
+
+(Logical Business Representation)
+3. Schema : Represents logic business models. 
+4.Views: Typically a query of one or more tables to represents a business query.
+
+5. BA will work with SME to create such logical views
+6. Interpret business requirements (Requirement elicitation)
+7. Reports and dashboards meet Gold Standard of business
+8. Gold Standard accepted by whole business. Eg. sales revenue report.
+
+
+
