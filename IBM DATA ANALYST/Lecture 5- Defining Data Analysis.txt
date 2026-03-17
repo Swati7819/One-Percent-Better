@@ -1,0 +1,32 @@
+1. Data analysis is a process of gathering, cleaning, analyzing and mining data, interpreting results and reporting the finding. With data analysis, we find patterns between data and correlates them between different data points. Through this pattern and correlations, insights are generated and conclusion are drawn.
+
+2. Data analysis helps business:
+a. understand their past performance.
+b. Take informed decisions
+c. Validate a course of action - saving time and resources, ensuring success.
+
+3. 4 different type of data analysis
+a. Descriptive analysis - helps answer questions about "what happened" over a given period of time using past data and presenting the finding to stakeholders. Helps provides insights into past events. Eg. Tracking org performance based on org KPI or cash flow analysis.
+
+b. Diagnostic analysis - Helps answer the question -"why did it happen". It takes the insights from descriptive analystics to dig deeper to find the cause of the outcome. Eg. sudden change in website traffic without sudden cause.
+
+c. Predictive analysis - Helps answer the question - "What will happen next". It leverages historical data and trends to prefict future outcome. eg. Risk accessment and sales forcast. Its objective is to say what might happen in the future.
+
+d. Prescriptive analysis - Helps answer the question - "What should be done about it". It analyzes past decisions and events to estimate the likelihood of different outcome and on the basis of that a course of action is decided. Eg. self driving car.
+
+
+3. Key steps in any data analysis process:
+a. Understanding the problem and desired results - Define where you are where you need to be.
+
+b. Setting a clear metric - Deciding what will be measured and how it will be measured.
+
+c. Gathering data - Identifying data you require, the sources from which you will access this data and the best tool for the job.
+
+d. Cleaning data - Fixing quality issues in the data and standardizing data coming in from multiple sources.
+
+e. Analyzing and mining data - Extracting , analyzing and manipulating data from different prospective to understand trends, identify correlations and find patterns and variations.
+
+f. Interpreting results - Interpreting results, evaluating defendability of analysis and circumstances under which analysis may not hold true.
+
+g. Presenting your findings - Communicating and presenting your finding in clear, impactful and convincing ways.
+
