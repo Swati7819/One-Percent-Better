@@ -1,0 +1,101 @@
+Figma Lecture 1-8
+
+Lecture 2
+
+Lecture 3
+
+Figma - rapid prototyping
+
+Lecture 4
+
+Difference is between UI- user interface, its about pixels and color and UX- User experience as to improve the user experience , easier, trustworthy, etc.
+Testing is more into UX.
+
+Lecture 5
+
+What are we making in this figma course.
+
+Lecture 6
+
+Project 1 --> Your own brief. Will do later
+
+
+Lecture 7 - High and low fidelity wireframe
+
+The difference between wireframing and high-fidelity design in Figma is mainly about level of detail, purpose, and stage in the design process.
+
+1. Wireframing (Low / Mid Fidelity)
+Purpose
+
+Focus on structure and layout, not visuals.
+
+What it looks like
+Simple boxes and placeholders
+Black/white or grayscale
+No real images or branding
+Basic text (lorem ipsum or labels)
+Focus areas
+Page layout
+User flow
+Placement of elements (buttons, images, forms)
+Navigation structure
+Goal
+
+Answer:
+
+“What goes where and how does the user move through the screen?”
+
+2. High-Fidelity Design (Hi-Fi)
+Purpose
+
+Focus on final look, feel, and interaction realism
+
+What it looks like
+Real colors, fonts, spacing
+Actual images/icons
+Branding included
+Detailed UI components
+Often interactive (clickable prototype in Figma)
+Focus areas
+Visual design system
+Typography, colors, spacing
+Micro-interactions (hover, transitions)
+Final user experience
+Goal
+
+Answer:
+
+“How will the final product look and feel to the user?”
+
+Key Difference Summary
+Aspect	Wireframe	High-Fidelity
+Detail	Low	High
+Colors/Images	No	Yes
+Purpose	Structure & flow	Final design & experience
+Speed	Fast to create	Time-consuming
+Stage	Early design	Late design
+Feedback focus	Layout & usability	Visual & UX polish
+Simple Way to Remember
+Wireframe = Skeleton (structure)
+
+High Fidelity = Fully dressed product (final UI)
+
+
+Lecture 8 - Creating our design and introducing frames in figma
+
+Frame are pages 
+
+Frames --> right hand side --> design --> phone, tablet etc
+
+Frames can be replicated by copy and paste.
+
+mobile first and then desktop 
+
+
+
+
+
+
+
+
+
