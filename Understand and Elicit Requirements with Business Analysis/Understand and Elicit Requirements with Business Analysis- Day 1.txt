@@ -1,0 +1,69 @@
+Understand and Elicit Requirements with Business Analysis- Day 1
+
+
+1. The only constant in business is change.
+2. wants + needs = requirements
+3. Different definitions of requirement by different organization:
+
+a. International Institute for Business Analysis (IIBA): A usable representation of a need that focuses on understanding what kind of value could be delivered if it is fulfilled.
+
+4. Requirement -represents a need.
+               - Are often achieved through some type of product, process or service.
+               - Provide value when completed or fulfilled.
+
+
+5. Goal of org --> Generate value by build the right solution--> Have the right design --> Understand Requirements.
+
+6. Requirements are core value to generate value.
+
+7. Options for a failed project:
+a. Conduct rework.
+b. Restart project from scratch.
+c. Abandon the project.
+
+So, requirements are critical to project success.
+
+8. Requirement format:
+a. Requirements can be anything.
+b. Text format --> Written out requirements.
+eg. System perspective--> 1. The System shall allow for entry of daily hours.
+2. The syste, shall only allow entered daily hours to be 12 or less.
+3. The system shall provide an on demand summary output of daily hours.
+
+eg. User perspective:
+a. As a dock worker, I need the ability to log my daily hours so that I can be paid for the hours I work.
+b. As a dock worker, I need to know I cannot enter more than 12 hours each day so that my hours properly submit for later payment.
+c. As a dock manager, I need the ability to run a report summarizing daily hours for each employee for a chosen week so I know how much each employee should be paid
+
+c. Use case diagram --> Visual representation of a requirement.
+
+d. Mockup/wireframe/Visual Mock up.
+
+
+9. Product requirements Vs Project Requirements
+a. Product requirements talks about the features and functionality of a solution. Properties, tasks and behaviors.
+
+b. Project requirements talks about the details, outputs and discussions that needs to be had for the project itself. Like training needs, testing resources, installs and configurations.
+
+We will be talking more about product requirements !!
+
+
+9. Business Analysis Body of Knowledge (BABOK) --> Set up by IIBA. They have outlined a requirement schema, like levels.
+
+a. Business requirements --> on high level helps with understanding business goals and high level objectives. Mostly used to sell the idea and value of moving forward to meet those requirements. Can be thought of as overall umbrella to understand the overall objectives.
+
+eg. Reduce retail staff cost by 14%, increase customer loyalty in our florida locations, convert 10% of the abandoned carts into a purchase, develop and produce a new product line in 12 months,increase the average sales revenue by 8%, convert 5% of website visitors into email subcsribers, decrease college administration support cost by 17%, offer in store pickup option for online orders.
+
+b. Stakeholders requirements
+c. Solution requirements
+d. Transition requirements
+
+
+
+
+
+
+
+
+
+
