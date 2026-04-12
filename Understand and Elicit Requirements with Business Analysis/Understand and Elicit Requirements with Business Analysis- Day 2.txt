@@ -1,0 +1,87 @@
+1. Business Analysis Body of Knowledge (BABOK) --> Set up by IIBA. They have outlined a requirement schema, like levels.
+
+a. Business requirements --> on high level helps with understanding business goals and high level objectives. Mostly used to sell the idea and value of moving forward to meet those requirements. Can be thought of as overall umbrella to understand the overall objectives.
+
+eg. Reduce retail staff cost by 14%, 
+increase customer loyalty in our florida locations, 
+convert 10% of the abandoned carts into a purchase, develop and produce a new product line in 12 months,increase the average sales revenue by 8%, convert 5% of website visitors into email subcsribers, decrease college administration support cost by 17%, offer in store pickup option for online orders.
+
+b. Stakeholders requirements
+c. Solution requirements
+d. Transition requirements
+
+b. Stakeholder requirements - Helps to explain the needs of a stakeholders and when they are achieved, it helps to achieve business requirements.
+eg. User has the ability to search for products by characterstics, for eg, their name
+
+User has the ability to purchase products online via a credit card
+
+Manager has the ability to generate a report of the previous day's sales
+
+An admin has the ability to disable log in access to the software, for eg for maintainance.
+
+As a gas station customer I need the ability to select the gasoline grade to be pumped so that I can pick the grade that best suits my needs
+
+As a gas station customer I need the ability to print my receipt after the transaction is complete so I can save it for my book keeping
+
+c. Solution requirements - Explain the capabilities and features of the solution that when achieved helps to achieve the stakeholder requirements
+
+eg. The system shall allow for entry of daily hours.
+
+The system shall only accept and save entered daily hours that are valid(12 or less)
+
+The system shall warn the user if their daily hours input is invalid.
+
+At the end of a gas pump, transaction the system shall prompt the user asking if they would like a receipt.
+
+The system shall be available 24 hours a day, 7 days a week
+
+When ran the daily hours report should take no longer than 20 seconds to return results.
+
+d. Transition requirements -- Temporary requirements that helps the organization implement the changes from current to future states. eg. training needs, data conversion needs and continuity needs
+
+eg. Training manuals will be made available to all users to explain the commonly used functions of the system
+
+Users will attend a 4 hour training session to learn about the new system and its features
+
+For the data transfer the phone number field should contain 10 digits(0-9), no symbol or character are allowed.
+
+For the data transfer the first name and the last name field should be concatenated into one field called full name(Bob Smith)
+
+Support users need to maintain the ability to access and update support tickets during the transition to the new system
+
+ 
+NOTE- all 4 are not applicable to all projects but it is useful to know the classifications.
+
+2. Requirement types -
+
+Functional and non functional are sub category of solution requirements
+a. Functional - This is what ppl think whey they are thinking about requirements. these are features and capabilities of the solution.
+
+b. Non functional - These are qualities and characterstics of the solution.
+
+c. Business rules - a standard, policy, guidelines or regulations that defines or constraints the business.
+
+eg. each course must have a minimum of one assigned instructor.
+All prepared and stored food items must be labelled with a date and time
+Projects must have executives approvals before a PM can be assigned.
+
+
+d. Constraints - Limitations or restriction on the business
+
+eg.  A project cannot exceed a cost of $1M.
+Third party must validate a sale with the customer before any products are ordered.
+We have 4 current consultants that can play consulting lead roles.
+
+tip to remember whether a requirement is functional or non functional is if we are able to picture a use using that requirement and generating a value through it, then its a functional requirement most likely.
+
+You wont be able to picture non functional requirements. 
+
+
+NOTE - not all requirements will be classified and that's okay.
+
+
+
+
+
+
+
