@@ -1,0 +1,23 @@
+L1-L5 : Introduction 
+
+L6: What is Business Intelligence?
+
+1. We have lot of data these days.
+
+2. Business intelligence is all about harnessing the data that our business generates so we can analyze and visualize it to gain insights on how our business is performing.
+
+3.  According to Forrester research, BI is a set of methodologies, processes, architecture and technologies that transform raw data into meaningful and useful information used to enable more effective strategic, tactical and operational insights and decision making.
+
+4. Basically, BI is to deliver relevant and reliable information to the management at the right time so our management makes better business decisions.  BI is also known as decision support system. 
+
+L7: Why use BI?
+
+1. Accelerating and improving decision making.
+2. Optimize internal process.
+3. Getting to know business past, present and future.
+4. Increasing operational efficiency.
+5. Giving quicker responses to business related queries.
+6. No more guess work.
+7. Meeting/exceeding manufacturing and inventory goals.
+8. Gaining valuable insights into customer's behavior.
+9. And even more.  :)
