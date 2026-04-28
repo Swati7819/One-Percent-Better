@@ -1,0 +1,103 @@
+L8: What answers BI gives you
+
+1.Retail:
+Increasing margins, customer satisfaction
+Optimize pricing, Promotions
+Improve inventory, sales, marketing strategies
+Personalizing offers
+ROI in IT and other costs
+
+2.Supply chain management:
+forcasting
+better inventory status
+improve demand planning, sourcing, production, hr productivity, transportation
+procurement
+
+3.Sales and Marketing:
+What items not sold well
+better inventory status
+optimal sales force size
+competitor sales analysis
+what initiates performing better today
+which of them viable in a long run
+what can learn from our competition
+are we using the right channels
+
+
+4.HR:
+
+talent acquisition and retention
+know attrition
+improve headcount management
+optimization workforce, compensation and benefits
+performance and career management optimization
+improve training and develop
+
+L9: Characterstics of modern BI tools
+
+Power BI has the following:
+Cloud BI
+Data connectivity and ingestion
+Data loading choices
+Data preparation
+Scalability
+Analytics for citizen data scientists
+Interactive Data visualization
+Augmented information discovery
+Embedding of analytics contents
+Publish, share and collaborate
+Workflow collaboration
+Ease of use
+Customer service/ support options
+
+
+L10: Factors to consider while using Power BI
+
+How companies are using Power BI?
+
+Sales company and forcasts - 61%
+customer behavior analysis - 43%
+Unified customer view - 33%
+capacity and resource planning - 32%
+pricing and offer optimization - 30%
+quality assurance - analysis - 29%
+real time process monitoring - 21%
+supply optimization - 18%
+Maintaince forcasting - 16%
+fraud prevention - 13%
+security analytics - 9%
+
+
+Factors to consider while using Power BI
+
+
+Functionality
+price performance ratio
+ease of use to report recipients
+ease of use for report designers
+fast query performance
+flexibility of the software
+large number of users
+predefine data connections
+large  data handling capacity
+corporate standard
+availability of skilled resources
+vendor/product reputation
+availability of local support
+proof of concept better
+bundled with another product
+innovative capacity
+size/financial stability
+international focus
+vendor relationship
+deployment option
+
+
+
+
+
+
+
+
+
+
