@@ -1,0 +1,15 @@
+L11 - Descriptive , predictive and prescriptive analysis.
+
+1. When we analyse data , there are three type of analysis - Descriptive , predictive and prescriptive analysis.
+
+2. Descriptive analysis - It helps to understand what has happened at the past by looking at the visualization report created by Power BI. Also helps to discover positive trends in the past. [Visualization and reports are mostly used]
+
+Answer question like are the sales by month, year or quarter going up or down?, what products we are selling the most, or top 5 selling products we have.
+
+3. Predictive analysis -  It analysis current and historical facts to make prediction about future. It deals wtih extracting information from the data and using it to predict trends and pattern. [Quick insights, ML, R , Python]
+
+Answer question like what will be the sales next year, will customer buy this product or what age group will this product this target.
+
+4. Prescriptive analysis - It helps predict the future and also recommend the best course of action and also suggest why it will happen. Combines both predictive and descriptive analysis. [Clustering, Regression, recommending systems etc]
+
+Can continually take in new data to analysis for accurate results.
