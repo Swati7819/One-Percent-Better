@@ -1,0 +1,51 @@
+Lecture 12 -Introduction to PBI
+
+Lecture 13 -Features of PBI
+
+1.Visualize and analyze data - Connect to 100 of sources of data and show the data on pbi.
+
+2.PBI has Natural Language Query [QA].
+
+3.We have quick insights feature as well.
+
+4. Organizational Content Packs.
+
+Lecture 14- Features of PBI Part 2
+
+1. Live Streaming Dashboards and we can use Cortana also for interaction and all Further will learn in later parts.
+
+2. Share and collaborate.
+
+Lecture 15- Why Microsoft PBI?
+
+1. The augmented analytics, automated advanced analytics and visuals based data discovery capabilities will dominate the BI tools.
+
+2. Augmented data discovery capability will grow at twice the rate and deliver twice the business value.
+
+3. NLP and AI.
+
+4. 50% of analytical query using NLP or Voice.
+
+5. Citizen data scientist will grow 5 times.
+
+Lecture 16 - Power BI Product Family
+
+There are 6 products in this family
+
+1. Power BI service - self service cloud hosted business intelligence platform that empowers analyst to build data models, data exploration, reporting and dashboarding. It enables anyone to visualize and analyze data, produce beautiful reports in the minutes and then publish them for your org to consume on the web or across mobile devices. It is easy, fast and free unless we are using power BI pro version, which is $9.95 per month. 
+
+2. Power Bi desktop - Totally free available windows applications that allows analyst to design self service data models. We can use power BI desktop to mash up data from various data sources and then combine it for creating interactive dashboards and reports. Explore your data wherever it is in the cloud or on the premise. It can clean transfer and mash up data from multiple sources in a few clicks It also enables business user to dig deeper into the data and find patterns they may have otherwise missed. Most used tool. 
+
+3. Power Bi Premium [CONTINUE FROM HERE]
+4. Power BI Mobile
+5. Power BI Embded
+6. Power BI Report Server
+
+
+
+
+
+
+
+
+
