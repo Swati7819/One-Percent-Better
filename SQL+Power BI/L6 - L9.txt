@@ -1,0 +1,50 @@
+L6 - Importing data 
+
+How to import data into SQL. Look again when we will work into that.
+
+L7 - Importing data - Summary
+
+See when we want to import data into SQL.
+
+
+L8 - Preparing data 
+
+See when we want to prepare the data.
+
+
+L9 - Data types
+
+
+1. Every col in a table populated with data is of a specific data type.
+Principle - A col can only have one data type at any given moment in time. [It is possible to change the data type of a col, but for now, we will be looking at commonly used data types]
+
+2. Commonly used data type include:
+
+a. Text cols [particularly for strings]:
+a.1. VARCHAR (covers all the characters in a alphabet) --> eg. Suburb (varchar(50), null)
+
+a.2. NVARCHAR (Takes Unicode characters into account)
+
+b. Numeric cols:
+b.1. INT (for integers) --> eg. Price(int, null)
+
+b.2. DECIMAL (for numbers with a decimal point) [The number of decimal places you want 2 decimal places or 3 decimal places etc but these things have to be defined.]
+b.3. FLOAT (used for numbers with unspecified precision, means it can have any number of decimal places - not recommended)
+
+Best practice is to convert the floats into decimals.
+
+c. Date col 
+c.1. DATE (Date format) - Day, month, year. --> eg. Date(date, null)
+c.2. DATETIME (shows the date with a time stamp) --> Day, month, year, following that we will have hours, minutes, seconds.
+
+
+Date(date, null)
+
+The first part before the comma is the data type and the second part will be covered in future. [Its a constraint associated with the col,on a higher note, if that part has null, then it means that col allows null values to be present]
+
+so for Subhurb, it means the data type is a string, the maximum length is 50 and nulls are allowed. Same for price and date.
+
+
+The format followed is - Column_name(Data type, if null values are allowed)
+
+
