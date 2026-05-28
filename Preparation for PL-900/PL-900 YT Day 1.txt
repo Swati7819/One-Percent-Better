@@ -1,0 +1,65 @@
+What is Power Platform?
+Microsoft power platform is a line of business intelligence, app development and app connectivity software applications. It is composed of 5 key products:
+1. Power Apps
+2. Power Automate
+3. Power BI
+4. Power Virtual Agents
+5. Power Pages
+
+
+Micosoft power platform is a low code platform that spans Microsoft 365, azure, dynamics 365 and standalone apps.
+1. Power Apps --> App development
+2. Power Automate --> Process Automation --> Data connectors , AI builder, Dataverse
+3. Power BI--> Business Analytics 
+4. Power Virtual Agents --> Intelligent Virtual Agents
+5. Power Pages --> External Facing Websites
+
+
+Power Apps
+Power apps provides a rapid low code development env for building custom apps for business needs.
+
+It has services, connectors and a scalable data services and app platform to allow simple integrations and interaction with existing data.
+
+
+Power App Features:
+1. Creation of web and mobile applications.
+2. Easy user experience.
+3. Developers can build custom apps.
+4. 200+ connectors to integrate data and systems.
+5. Prebuilt AI scenarios.
+6. Provides private and secure submission of information.
+
+
+Power Automate
+Power automate lets user create automated workflows between applications and services.
+
+It helps automate repetitive business processes such as communications, data collections and decision approvals.
+
+
+Power Automate Features:
+1. Creation of enterprise grade process automation.
+2. Simple interface allowing every level of users to automate work tasks.
+3. Hundreds of prebuilt connectors.
+4. AI builders.
+5. Predicts outcomes to improve performance.
+ 
+
+Power BI
+Power BI (Business Intelligence) is a business analytics service that delivers insights for analyzing data.
+
+It can share insights via data visualization which make up reports and dashboards to enable fast, informed decisions.
+
+Power BI features:
+1. Scales across an organization and has built in governance and security.
+2. Display data in the most user friendly way possible.
+3. Detailed and attractive visualizations.
+4. Access cast volumes of data from multiple sources.
+5. Gather, analyze, publish, and share excel business data.
+6. Perform real time stream analytics.
+
+
+
+
+
+
+
