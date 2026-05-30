@@ -1,0 +1,40 @@
+Lecture 12 -Introduction to PBI
+
+Lecture 13 -Features of PBI
+
+1.Visualize and analyze data - Connect to 100 of sources of data and show the data on pbi.
+
+2.PBI has Natural Language Query [QA].
+
+3.We have quick insights feature as well.
+
+4. Organizational Content Packs.
+
+Lecture 14- Features of PBI Part 2
+
+1. Live Streaming Dashboards and we can use Cortana also for interaction and all Further will learn in later parts.
+
+2. Share and collaborate.
+
+Lecture 15- Why Microsoft PBI?
+
+1. The augmented analytics, automated advanced analytics and visuals based data discovery capabilities will dominate the BI tools.
+
+2. Augmented data discovery capability will grow at twice the rate and deliver twice the business value.
+
+3. NLP and AI.
+
+4. 50% of analytical query using NLP or Voice.
+
+5. Citizen data scientist will grow 5 times.
+
+
+
+
+
+
+
+
+
+
+
