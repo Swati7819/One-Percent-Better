@@ -1,0 +1,12 @@
+Lecture 16 - Power BI Product Family
+
+There are 6 products in this family
+
+1. Power BI service - self service cloud hosted business intelligence platform that empowers analyst to build data models, data exploration, reporting and dashboarding. It enables anyone to visualize and analyze data, produce beautiful reports in the minutes and then publish them for your org to consume on the web or across mobile devices. It is easy, fast and free unless we are using power BI pro version, which is $9.95 per month. 
+
+2. Power Bi desktop - Totally free available windows applications that allows analyst to design self service data models. We can use power BI desktop to mash up data from various data sources and then combine it for creating interactive dashboards and reports. Explore your data wherever it is in the cloud or on the premise. It can clean transfer and mash up data from multiple sources in a few clicks It also enables business user to dig deeper into the data and find patterns they may have otherwise missed. Most used tool. 
+
+3. Power Bi Premium [CONTINUE FROM HERE]
+4. Power BI Mobile
+5. Power BI Embded
+6. Power BI Report Server
