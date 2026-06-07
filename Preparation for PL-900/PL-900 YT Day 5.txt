@@ -1,0 +1,42 @@
+PL-900 YT Day 5
+
+5. Microsoft power platform has multiple apps that collaborate to offer a complete solution for users to design and handle personalized apps, automate processes and analyze data.
+
+6. Power apps allows user to create custom applications with a drag and drop interface. These apps can then be integrated with other Microsoft services and external data sources.
+
+7. Power automate enables users to automate repetitive tasks and workflows between various apps and services. This can include automating notifications, data collections, approvals and much more. 
+
+8. Power BI is a data visualization tool that allows users to create reports and dashboards to analyze data from multiple sources. The data can come from various sources like spreadsheets, databases, or cloud based services.
+
+9. Microsoft dataverse provides a centralized location for data storage and management, allowing users to create and manage data entities and relationships between them.
+
+10. All these apps work together seamlessly, allowing users to create a customized solutions that can automate their business processes, manage data effectively and derive valuable insights through data analysis.
+
+
+POWER PLATFORM SOLUTIONS WITH MICROSOFT TEAMS
+
+1. Microsoft power platform work seamlessly with Microsoft teams, a collaboration platform for teams to communicate and work together. With power platform integrated into teams, users can access and use power apps, power BI and power automate without leaving the teams interface.
+
+2. For eg. users can create and share power apps directly within a teams channel or chat, allowing team members to collaborate and access the app in real time.
+
+3. Similarly, users can access and view power BI reports and dashboards within a teams channel or chat, making it easier to share data insights and collaborate on analysis.
+
+4. Power automate can be used to create automated workflows within teams, enabling users to trigger actions and send notifications in response to specific events. For eg. a power automate flow can be created to notify a teams channel when a new item is added to a SharePoint list or trigger a message in Teams when a specific action is taken in power app.
+
+5. Power Virtual agents is a chatbot development platform within Microsoft power platform that can be integrated with Microsoft teams. With this integration, business can build and deploy chatbots in teams to provide 24/7 support, answer frequently asked questions and automate simple tasks.
+
+POWER PLATFORM USING MICROSOFT AZURE SERVICES
+
+1. Microsoft power platform business solutions can consume Microsoft azure services through their integration with Azure APIs and connectors.
+
+2. Azure provides a wide range of cloud services that can be leveraged by power platform apps, such as azure functions, azure cognitive services and azure machine learning.
+
+3. One way is through the use of azure connectors, which enables power platform apps to access and manipulate data stored in azure services such as Azure Blob Storage, Azure SQL Database and Azure Event Hubs. This allows businesses to leverage the power of Azure services within their power platform solutions.
+
+
+Continue in day 6
+
+
+
+
+ 

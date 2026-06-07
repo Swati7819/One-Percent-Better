@@ -1,0 +1,25 @@
+PL-900 YT Day 6
+
+4. Another way power platform can consume azure services is through the use of azure functions, which can be triggered by power automate flows. This enables businesses to create custom logics and integrations that run on demand or based on specific events, such as the creation of a new records in dynamics 365 or the receipt of an email in outlook.
+
+5. Power BI can also be used to consume azure services by connecting to data stored in azure services, such as azure data lake storage, and visualizing that data through dashboards and reports. This allows businesses to gain valuable insights from their azure data in a user friendly and easily digestible format.
+
+6. Power apps can consume  Azure Cognitive Services, which includes AI and machine learning capabilities like natural language processing, speech recognition and computer vision to add intelligent features to custom applications. 
+
+POWER PLATFORM SECURITY MODEL
+
+1. The Microsoft power platform security model is designed to ensure that data and resources within power platform applications are protected from unauthorized access or modifications.
+
+2. The security model of power platform is based on user roles, permission, and data governance policies, and consists of three layers: tenant-level, environment-level and data level security.
+
+3. At the tenant level, security is managed by the Microsoft 365 admin center, which allows administrators to manage user accounts ,access to services and other settings that impact the entire tenant.
+
+4. At the environment level, security is managed through the power platform admin center, which allows administrators to create and manage env and control access to data and applications within those env. 
+
+5. Data level security is implemented using Role Based Access Control(RBAC) and Azure active directory (AAD) to manage permissions and access to data within the platform. This means that administrators can control access to data and actions within the power platform using authentications with organizational credentials, ensuring that users only have access to authorized resources and data.
+
+6. The platform also includes audit logging and reporting capabilities, which allow administrators to monitor user activity and identify potential security risks.
+
+7. Power platform has several built in security features such as conditional access policies, multi factor authentication, and data loss prevention policies that can be configured to meet specific security and compliance requirements. 
+
+Continue on day 7 - time break on 34:19

@@ -1,0 +1,34 @@
+PL-900 YT Day 4
+
+MICROSOFT POWER PLATFORM WITH MICROSOFT 365 APPS AND SERVICES
+
+1. Microsoft power platform solutions work together with Microsoft 365 apps and services to create a unified approach to digital transformation.
+
+2. With the integration of power apps , power automate, power BI and data verse, businesses can create customized solutions that automate processes, visualize data and gain insights to drive informed decisions.
+
+3. For eg, a company may use power apps to create a custom form that captures customer information and then use power automate to automatically send that information to Microsoft dynamics 365 for sales.
+
+4. They can also use power BI to create reports that show customer trends and behavior, and use that information to make strategic decisions.
+
+5. The integration with Microsoft 365 allows businesses to leverage existing data sources and systems to build apps and automate workflows.
+
+6. Power apps and power automate can interact with Microsoft teams, SharePoint, outlook and other Microsoft 365 applications, enabling users to easily access data and trigger workflows directly from their familiar interfaces.
+
+7. Additionally, Power BI allows businesses to visualize data from Microsoft 365 applications, such as excel, SharePoint, and dynamics 365, alongside data from other sources. This provides a comprehensive view of business operations and allows for better decision making.
+
+8. Overall, the integration of Microsoft power platform with Microsoft 365 apps and services allows businesses to streamline their processes, increase productivity, and gain valuable insights to drive their digital transformation journey forward.
+ 
+HOW POWER PLATFORM APPS WORK TOGETHER
+
+
+1. The integration of Microsoft power platform apps is achieved through the utilization of a Common Data Model [CDM], which is a standardized and modular collection of data schemas designed to work seamlessly together.
+
+2. By leveraging this model, various power platform apps such as power apps, power automate and power BI can effectively collaborate and share data.
+
+3. For eg. a power app can use data stored in Microsoft dataverse, and power automate can automate tasks based on data in a power app. Power BI can then visualize the data from both the power app and power automate to provide insights for informed decision making.
+
+4. The various power platform apps also offer connectors that allows for integration with older services, such as Microsoft 365 apps and third party applications. By leveraging these connectors, users can create end to end solutions that automate complex business processes and improve overall efficiency. 
+
+
+
+

@@ -1,0 +1,49 @@
+Power Virtual Agents
+
+Power Virtual Agents enables anyone to create powerful chatbots using a guided, no coded graphical interface, without the need for data scientist or developers.
+
+It minimizes the IT efforts required to deploy and maintain a custom solution by empowering subject matter experts to build and maintain their own conversational solutions.
+
+Power Virtual Agent Features:
+1. Chatbots to perform an action by simply calling a power automate flow.
+2. Flows help users automate activities or call backend systems.
+3. Reduce costs by easily automating common inqueries.
+4. Utilize existing flows that have been created in their power apps env.
+5. Improve customer satisfaction.
+
+
+Power pages
+
+Power pages is the latest addition to Microsoft power platform that allows users to build and publish web pages without the need for extensive coding knowledge.
+
+With power pages, user can create customized web pages using drag and drop interface and a variety of pre built templates, block and components.
+
+These pages can be connected to a data source, such as dataverse, to display and edit data.
+
+Power pages also offers advanced features such as embedding power BI dashboards and adding custom codes.
+
+User can publish their pages as a standalone website or embed them withing existing applications. 
+
+Additionally, power pages provides analytics to help users understand page usage and engagement.
+
+
+
+
+POWER PLATFORM FEATURES
+
+1.Microsoft power platform has several cross cutting features that can be utilized to maximize its potential, including AI builder, Microsoft dataverse and connectors.
+
+2. AI builder let users and developers add AI capabilities to the workflows and power apps they create and use. It is a solution that makes it simple to integrate intelligence into your apps and workflows to predict outcomes and enhance business performance without writing code.
+
+3. Microsoft dataverse is a scalable data service and app platform which let users securely store and manage data multiple sources and integrate that data in business applications using a common data model to ensure ease and consistency to users. This platform is a foundation for consolidating, displaying and manipulating data, allowing the components of Microsoft power platform to work together efficiently.
+
+4. Connectors enable you to connect apps, data, and devices in the cloud. They act as a bridge, facilitating the movement of informations and commands across systems. There are more than 600 connectors for Microsoft power platform,enabling all your data and action to connect cohesively. Some of the most popular connectors include Salesforce, Office 365, Twitter, Dropbox and various google services. 
+
+
+
+
+
+
+
+
+
